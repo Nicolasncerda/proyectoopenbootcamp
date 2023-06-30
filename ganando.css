@@ -1,0 +1,13 @@
+#elemento_1 {
+	color:red;
+}
+#elemento_a{
+	color: red;
+}
+#elemento_1 , #elemento_a{
+	font-size: 2rem;
+}
+/*
+#elemento_a{
+	font-size: 2rem;
+}
